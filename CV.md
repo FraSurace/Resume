@@ -60,7 +60,7 @@ On the other hand, the artistic side pays attention to the smallest visual detai
     <td align="center">04 / 2022 - Present</td>
   </tr>
   <tr>
-    <td align="center">Pipeline TD & Python Deloper</td>
+    <td align="center">Pipeline TD & Python Developer</td>
     <td align="center">Freelance</td>
     <td align="center">01 / 2022 - Present</td>
   </tr>
