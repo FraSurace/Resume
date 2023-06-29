@@ -116,7 +116,7 @@ On the other hand, the artistic side pays attention to the smallest visual detai
 ## EDUCATION
 
 ### CGSociety Workshop | 05/2010 - 07/2010  
-> Lighting&Rendering in Maya with JeremyBirn  
+> Lighting&Rendering in Maya with Jeremy Birn  
 
   
   
